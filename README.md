@@ -4,7 +4,7 @@
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📬 Contato: vta170892@gmail.com
 
-# 👋 Olá, eu sou [Victor]
+# 👋 Olá, eu sou Victor
 🖥️ **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 ---
@@ -28,6 +28,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 ## Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+badge&logo=gmail&logoColor=white)](mailto:vta170892@gmail.com)
 ---
 *“Sempre aprendendo e evoluindo como desenvolvedor.”*
