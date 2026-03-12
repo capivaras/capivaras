@@ -25,4 +25,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capivaras&show_icons=true&theme=synthwave) 
 ---
 <img src="https://i.pinimg.com/736x/48/83/4a/48834adb31df7d5ecc69098605d61692.jpg" alt="placeholder" width="25%" height="25%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=capivaras&label=Profile%20views&color=0e75b6&style=flat" alt="capivaras" /> </p>
 
