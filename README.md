@@ -25,9 +25,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capivaras&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capivaras&show_icons=true&theme=synthwave)
 ---
-## 📬 Como me encontrar
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vta170892@gmail.com)
----
-✨ *“Sempre aprendendo e evoluindo como desenvolvedor.”* ✨
+## 📬 Como me encontrar [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vta170892@gmail.com)
+
+![capybara](https://i.pinimg.com/736x/48/83/4a/48834adb31df7d5ecc69098605d61692.jpg)
